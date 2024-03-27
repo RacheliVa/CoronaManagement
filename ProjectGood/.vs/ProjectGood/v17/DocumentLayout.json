@@ -1,0 +1,634 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dal\\functions\\customerfuncdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|solutionrelative:dal\\functions\\customerfuncdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dal\\functions\\addressfuncdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|solutionrelative:dal\\functions\\addressfuncdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dal\\functions\\vaccinationfuncdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|solutionrelative:dal\\functions\\vaccinationfuncdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5C3DA0-7992-4BE9-A628-0BAD0AF0CFFE}|DTO\\DTO.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dto\\classes\\diseasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5C3DA0-7992-4BE9-A628-0BAD0AF0CFFE}|DTO\\DTO.csproj|solutionrelative:dto\\classes\\diseasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5C3DA0-7992-4BE9-A628-0BAD0AF0CFFE}|DTO\\DTO.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dto\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5C3DA0-7992-4BE9-A628-0BAD0AF0CFFE}|DTO\\DTO.csproj|solutionrelative:dto\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|solutionrelative:dal\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dal\\functions\\diseasefuncdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|solutionrelative:dal\\functions\\diseasefuncdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5C3DA0-7992-4BE9-A628-0BAD0AF0CFFE}|DTO\\DTO.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dto\\classes\\vaccinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5C3DA0-7992-4BE9-A628-0BAD0AF0CFFE}|DTO\\DTO.csproj|solutionrelative:dto\\classes\\vaccinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dal\\coronaprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|solutionrelative:dal\\coronaprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98E9D85-C84F-453D-8BD8-EE7FA01EE7C6}|WebApi\\WebApi.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\webapi\\controllers\\diseasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98E9D85-C84F-453D-8BD8-EE7FA01EE7C6}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\diseasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\bll\\functionsbll\\diseasebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|solutionrelative:bll\\functionsbll\\diseasebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\bll\\functionsbll\\vaccinationbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|solutionrelative:bll\\functionsbll\\vaccinationbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98E9D85-C84F-453D-8BD8-EE7FA01EE7C6}|WebApi\\WebApi.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\webapi\\controllers\\vaccinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98E9D85-C84F-453D-8BD8-EE7FA01EE7C6}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\vaccinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98E9D85-C84F-453D-8BD8-EE7FA01EE7C6}|WebApi\\WebApi.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\webapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98E9D85-C84F-453D-8BD8-EE7FA01EE7C6}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\bll\\functionsbll\\customerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|solutionrelative:bll\\functionsbll\\customerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5C3DA0-7992-4BE9-A628-0BAD0AF0CFFE}|DTO\\DTO.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dto\\classes\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5C3DA0-7992-4BE9-A628-0BAD0AF0CFFE}|DTO\\DTO.csproj|solutionrelative:dto\\classes\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\bll\\functionsbll\\addressbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|solutionrelative:bll\\functionsbll\\addressbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\bll\\interfacesbll\\iaddressbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|solutionrelative:bll\\interfacesbll\\iaddressbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dal\\interfaces\\iaddressdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iaddressdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98E9D85-C84F-453D-8BD8-EE7FA01EE7C6}|WebApi\\WebApi.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98E9D85-C84F-453D-8BD8-EE7FA01EE7C6}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\bll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|solutionrelative:bll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5C3DA0-7992-4BE9-A628-0BAD0AF0CFFE}|DTO\\DTO.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5C3DA0-7992-4BE9-A628-0BAD0AF0CFFE}|DTO\\DTO.csproj|solutionrelative:dto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98E9D85-C84F-453D-8BD8-EE7FA01EE7C6}|WebApi\\WebApi.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B98E9D85-C84F-453D-8BD8-EE7FA01EE7C6}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98E9D85-C84F-453D-8BD8-EE7FA01EE7C6}|WebApi\\WebApi.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B98E9D85-C84F-453D-8BD8-EE7FA01EE7C6}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\bll\\interfacesbll\\idiseasebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|solutionrelative:bll\\interfacesbll\\idiseasebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dal\\interfaces\\idiseasedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\idiseasedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dal\\models\\vaccination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|solutionrelative:dal\\models\\vaccination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\bll\\interfacesbll\\icustomerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|solutionrelative:bll\\interfacesbll\\icustomerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\bll\\interfacesbll\\ivaccinationbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|solutionrelative:bll\\interfacesbll\\ivaccinationbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dal\\interfaces\\ivaccinationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ivaccinationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dal\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|solutionrelative:dal\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dal\\interfaces\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\bll\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|solutionrelative:bll\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dal\\models\\disease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|solutionrelative:dal\\models\\disease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5C3DA0-7992-4BE9-A628-0BAD0AF0CFFE}|DTO\\DTO.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dto\\classes\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5C3DA0-7992-4BE9-A628-0BAD0AF0CFFE}|DTO\\DTO.csproj|solutionrelative:dto\\classes\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EE672E7-3C27-494B-A3A8-408A56FB9F7A}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\dal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C96AB-E84D-4C04-B19F-558A93014679}|DAL\\DAL.csproj|solutionrelative:dal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98E9D85-C84F-453D-8BD8-EE7FA01EE7C6}|WebApi\\WebApi.csproj|d:\\the user\\documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\projectgood\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B98E9D85-C84F-453D-8BD8-EE7FA01EE7C6}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WebApi.http",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\WebApi\\WebApi.http",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.http",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\WebApi\\WebApi.http",
+              "RelativeToolTip": "WebApi\\WebApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-26T11:30:44.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-26T11:27:26.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VaccinationController.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\WebApi\\Controllers\\VaccinationController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\VaccinationController.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\WebApi\\Controllers\\VaccinationController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\VaccinationController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:09:56.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VaccinationBLL.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\FunctionsBLL\\VaccinationBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\FunctionsBLL\\VaccinationBLL.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\FunctionsBLL\\VaccinationBLL.cs",
+              "RelativeToolTip": "BLL\\FunctionsBLL\\VaccinationBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:03:52.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IVaccinationBLL.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\InterfacesBLL\\IVaccinationBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\InterfacesBLL\\IVaccinationBLL.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\InterfacesBLL\\IVaccinationBLL.cs",
+              "RelativeToolTip": "BLL\\InterfacesBLL\\IVaccinationBLL.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T10:02:44.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VaccinationDTO.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DTO\\Classes\\VaccinationDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Classes\\VaccinationDTO.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DTO\\Classes\\VaccinationDTO.cs",
+              "RelativeToolTip": "DTO\\Classes\\VaccinationDTO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T20:38:17.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VaccinationFuncDal.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Functions\\VaccinationFuncDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Functions\\VaccinationFuncDal.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Functions\\VaccinationFuncDal.cs",
+              "RelativeToolTip": "DAL\\Functions\\VaccinationFuncDal.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:15:42.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IVaccinationDAL.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Interfaces\\IVaccinationDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IVaccinationDAL.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Interfaces\\IVaccinationDAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IVaccinationDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:13:50.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DiseaseController.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\WebApi\\Controllers\\DiseaseController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\DiseaseController.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\WebApi\\Controllers\\DiseaseController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\DiseaseController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:49:47.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiseaseBLL.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\FunctionsBLL\\DiseaseBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\FunctionsBLL\\DiseaseBLL.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\FunctionsBLL\\DiseaseBLL.cs",
+              "RelativeToolTip": "BLL\\FunctionsBLL\\DiseaseBLL.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:46:12.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IDiseaseBLL.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\InterfacesBLL\\IDiseaseBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\InterfacesBLL\\IDiseaseBLL.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\InterfacesBLL\\IDiseaseBLL.cs",
+              "RelativeToolTip": "BLL\\InterfacesBLL\\IDiseaseBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:45:19.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiseaseDTO.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DTO\\Classes\\DiseaseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Classes\\DiseaseDTO.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DTO\\Classes\\DiseaseDTO.cs",
+              "RelativeToolTip": "DTO\\Classes\\DiseaseDTO.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvxAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:43:51.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DiseaseFuncDal.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Functions\\DiseaseFuncDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Functions\\DiseaseFuncDal.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Functions\\DiseaseFuncDal.cs",
+              "RelativeToolTip": "DAL\\Functions\\DiseaseFuncDal.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:41:13.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDiseaseDAL.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Interfaces\\IDiseaseDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IDiseaseDAL.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Interfaces\\IDiseaseDAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IDiseaseDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:39:51.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddressBLL.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\FunctionsBLL\\AddressBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\FunctionsBLL\\AddressBLL.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\FunctionsBLL\\AddressBLL.cs",
+              "RelativeToolTip": "BLL\\FunctionsBLL\\AddressBLL.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:07:00.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAddressBLL.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\InterfacesBLL\\IAddressBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\InterfacesBLL\\IAddressBLL.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\InterfacesBLL\\IAddressBLL.cs",
+              "RelativeToolTip": "BLL\\InterfacesBLL\\IAddressBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:06:26.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddressDTO.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DTO\\Classes\\AddressDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Classes\\AddressDTO.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DTO\\Classes\\AddressDTO.cs",
+              "RelativeToolTip": "DTO\\Classes\\AddressDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:00:40.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addressFuncDal.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Functions\\addressFuncDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Functions\\addressFuncDal.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Functions\\addressFuncDal.cs",
+              "RelativeToolTip": "DAL\\Functions\\addressFuncDal.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:51:02.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAddressDAL.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Interfaces\\IAddressDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IAddressDAL.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Interfaces\\IAddressDAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IAddressDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T19:49:57.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T10:48:26.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ExtensionService.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\ExtensionService.cs",
+              "RelativeDocumentMoniker": "BLL\\ExtensionService.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\ExtensionService.cs",
+              "RelativeToolTip": "BLL\\ExtensionService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:37:49.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T10:31:23.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:20:47.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\WebApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\WebApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:18:36.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerBLL.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\FunctionsBLL\\CustomerBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\FunctionsBLL\\CustomerBLL.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\FunctionsBLL\\CustomerBLL.cs",
+              "RelativeToolTip": "BLL\\FunctionsBLL\\CustomerBLL.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:08:36.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICustomerBLL.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\InterfacesBLL\\ICustomerBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\InterfacesBLL\\ICustomerBLL.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\InterfacesBLL\\ICustomerBLL.cs",
+              "RelativeToolTip": "BLL\\InterfacesBLL\\ICustomerBLL.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvw8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:04:03.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mapper.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DTO\\mapper.cs",
+              "RelativeDocumentMoniker": "DTO\\mapper.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DTO\\mapper.cs",
+              "RelativeToolTip": "DTO\\mapper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:54:12.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DTO\\Classes\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Classes\\CustomerDTO.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DTO\\Classes\\CustomerDTO.cs",
+              "RelativeToolTip": "DTO\\Classes\\CustomerDTO.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:53:29.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICustomer.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Interfaces\\ICustomer.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ICustomer.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Interfaces\\ICustomer.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ICustomer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:50:15.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "customerFuncDal.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Functions\\customerFuncDal.cs",
+              "RelativeDocumentMoniker": "DAL\\Functions\\customerFuncDal.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Functions\\customerFuncDal.cs",
+              "RelativeToolTip": "DAL\\Functions\\customerFuncDal.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:49:45.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Vaccination.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Models\\Vaccination.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Vaccination.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Models\\Vaccination.cs",
+              "RelativeToolTip": "DAL\\Models\\Vaccination.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:48:38.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Disease.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Models\\Disease.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Disease.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Models\\Disease.cs",
+              "RelativeToolTip": "DAL\\Models\\Disease.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:48:22.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Customer.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Models\\Customer.cs",
+              "RelativeToolTip": "DAL\\Models\\Customer.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:48:02.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoronaProjectContext.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\CoronaProjectContext.cs",
+              "RelativeDocumentMoniker": "DAL\\CoronaProjectContext.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\CoronaProjectContext.cs",
+              "RelativeToolTip": "DAL\\CoronaProjectContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:47:46.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Address.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Models\\Address.cs",
+              "RelativeToolTip": "DAL\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:47:13.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DTO\\Program.cs",
+              "RelativeDocumentMoniker": "DTO\\Program.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DTO\\Program.cs",
+              "RelativeToolTip": "DTO\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:40:05.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\Program.cs",
+              "RelativeDocumentMoniker": "BLL\\Program.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\BLL\\Program.cs",
+              "RelativeToolTip": "BLL\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:39:54.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Program.cs",
+              "RelativeDocumentMoniker": "DAL\\Program.cs",
+              "ToolTip": "D:\\the user\\Documents\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E7\u05D5\u05E8\u05D5\u05E0\u05D4\\ProjectGood\\DAL\\Program.cs",
+              "RelativeToolTip": "DAL\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:39:42.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

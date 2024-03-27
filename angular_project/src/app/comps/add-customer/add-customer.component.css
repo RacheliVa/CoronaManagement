@@ -1,0 +1,36 @@
+/* CSS for centering and styling a smaller frame for the form */
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 40%; /* Adjust width to make it smaller */
+    border: 2px solid #ccc; /* Add a border */
+    border-radius: 5px; /* Add rounded corners */
+    padding: 20px; /* Add padding inside the frame */
+  }
+  
+  .w3-container {
+    text-align: center;
+  }
+  
+  .w3-input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  

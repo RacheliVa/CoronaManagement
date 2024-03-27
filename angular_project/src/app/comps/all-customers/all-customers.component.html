@@ -1,0 +1,9 @@
+<h1 >הלקוחות שלנו</h1>
+<div class="container">
+    <div *ngFor="let item of listCustomers" class="customer">
+        {{item.name}}
+        {{item.id}}
+        <button (click)="openDeatails(item.id!)">פרטים נוספים</button>
+    </div>
+    <button (click)="addCustomer()" class="add-button">להוספת לקוח חדש</button>
+</div>

@@ -1,0 +1,70 @@
+<p>customer-deatails works!</p>
+<div class="card">
+    <h1>{{currentCustomer.name}}</h1>
+    <h1>{{currentCustomer.phone}}</h1>
+    <h1>{{currentCustomer.birthDate}}</h1>
+    <div *ngIf="diseaseCustomer!=null">
+        <h1>תאריך קבלת תוצאה חיובית{{diseaseCustomer.dateIn}}</h1>
+        <h1>תאריך החלמה{{diseaseCustomer.dateOut}}</h1>
+    </div>
+    <div *ngIf="listVaccination!=null">
+        <h3>רשימת החיסונים</h3>
+        <ul *ngFor="let vaccination of listVaccination">
+            <li>{{vaccination.date}}</li>
+            <h5>היצרן:{{vaccination.manufacturer}}</h5>
+        </ul>
+    </div>
+    <button (click)="deleteCustomer()">🗑️</button>
+    <button (click)="openDisease()" [disabled]="diseaseCustomer!=null">להוספת מחלה</button>
+    <div *ngIf="openAddDisease">
+        <form class="w3-container" (ngSubmit)="addDisease()">
+            <label>תאריך קבלת תוצאה חיובית</label>
+            <input type="date" name="dateIn" [(ngModel)]="disease.dateIn" required>
+            <label>תאריך החלמה</label>
+            <input type="date" name="dateOut" placeholder="תאריך החלמה" required [(ngModel)]="disease.dateOut">
+            <button type="submit" (click)="addDisease()">להוספה</button>
+            <button type="submit" (click)="closeDisease()">לביטול</button>
+        </form>
+    </div>
+
+    <button (click)="openVaccination()" [disabled]="listVaccination.length==4">להוספת חיסון </button>
+
+    <div *ngIf="openAddVaccination">
+        <form class="w3-container">
+            <br>
+            <label>תאריך קבלת החיסון</label>
+            <input type="date" name="date" [(ngModel)]="vaccination.date">
+            <br>
+            <label>שם היצרן</label>
+            <input type="text" name="manufacturer" [(ngModel)]="vaccination.manufacturer">
+            <br>
+            <button type="submit" (click)="addVaccination()">להוספה</button>
+            <br>
+            <button type="submit" (click)="closeVaccination()">לביטול</button>
+        </form>
+    </div>
+    <button (click)="openUpdate()">עדכון</button>
+    <form *ngIf="openDetails" class="w3-container">
+        <p>
+            <label>ת.ז</label>
+            <br>
+            <input class="w3-input" type="number" required name="idC" disabled [(ngModel)]="currentCustomer.id">
+        </p>
+        <p>
+        <p>
+            <label>שם</label>
+            <br>
+            <input class="w3-input" type="text" required name="nameC" [(ngModel)]="currentCustomer.name">
+        </p>
+        <p>
+            <label>טלפון</label>
+            <br>
+            <input class="w3-input" type="tel" required name="phoneC" [(ngModel)]="currentCustomer.phone">
+        <p>
+            <label>תאריך לידה</label>
+            <br>
+            <input class="w3-input" type="date" required name="birthDateC" [(ngModel)]="currentCustomer.birthDate">
+        </p>
+        <button type="submit" (click)="updateCustomer()">לעדכון</button>
+    </form>
+</div>

@@ -1,0 +1,72 @@
+<p>add-customer works!</p>
+<div class="w3-container w3-blue">
+    <h2>הוספת לקוח חדש</h2>
+  </div>
+  <form [formGroup]="myForm" (ngSubmit)="addCustomer()">
+    <p>
+      <label>ת.ז</label>
+      <br>
+      <input class="w3-input" type="number" formControlName="id" name="tz" [(ngModel)]="newCustomer.id">
+    </p>
+    <div *ngIf="myForm.get('id')?.errors && myForm.get('id')?.errors">
+      <p style="color: red;">ת.ז היא שדה חובה</p>
+    </div>
+  
+    <p>
+      <label>שם</label>
+      <br>
+      <input class="w3-input" type="text" formControlName="name" name="name" [(ngModel)]="newCustomer.name" >
+    </p>
+    <div *ngIf="myForm.get('name')?.errors && myForm.get('name')?.errors">
+      <p style="color: red;">שם היא שדה חובה</p>
+    </div>
+  
+    <p>
+      <label>טלפון</label>
+      <br>
+      <input class="w3-input" type="tel" formControlName="phone" name="phone" [(ngModel)]="newCustomer.phone">
+    </p>
+    <div *ngIf="myForm.get('phone')?.errors && myForm.get('phone')?.errors">
+      <p style="color: red;">טלפון היא שדה חובה</p>
+    </div>
+  
+    <p>
+      <label>תאריך לידה</label>
+      <br>
+      <input class="w3-input" type="date" formControlName="birthDate" name="birthDate" [(ngModel)]="newCustomer.birthDate" >
+    </p>
+    <div *ngIf="myForm.get('birthDate')?.errors && myForm.get('birthDate')?.errors">
+      <p style="color: red;">תאריך לידה הוא שדה חובה</p>
+    </div>
+  
+    <p>
+      <label>עיר</label>
+      <br>
+      <input class="w3-input" type="text" formControlName="city" name="city" [(ngModel)]="newCustomer.city">
+    </p>
+    <div *ngIf="myForm.get('city')?.errors && myForm.get('city')?.errors" >
+      <p style="color: red;">עיר היא שדה חובה</p>
+    </div>
+  
+    <p>
+      <label>רחוב</label>
+      <br>
+      <input class="w3-input" type="text" formControlName="street" name="street" [(ngModel)]="newCustomer.street">
+    </p>
+    <div *ngIf="myForm.get('street')?.errors && myForm.get('street')?.errors">
+      <p style="color: red;">רחוב הוא שדה חובה</p>
+    </div>
+  
+    <p>
+      <label>מספר בית</label>
+      <br>
+      <input class="w3-input" type="number" formControlName="numHouse" name="num" [(ngModel)]="newCustomer.numHouse">
+    </p>
+    <div *ngIf="myForm.get('numHouse')?.errors && myForm.get('numHouse')?.errors">
+      <p style="color: red;">מספר בית הוא שדה חובה</p>
+    </div>
+  
+    <button type="submit" [disabled]="!myForm.valid">להוספה</button>
+  </form>
+  
+  
